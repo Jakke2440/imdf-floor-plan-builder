@@ -36,7 +36,7 @@ git init
 git add .
 git commit -m "Initial commit - IMDF Floor Plan Builder"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/imdf-floor-plan-builder.git
+git remote add origin https://github.com/Jakke2440/imdf-floor-plan-builder.git
 git push -u origin main
 ```
 
@@ -61,7 +61,7 @@ If your repo has a different name, change this to match. For example if your rep
 
 The deploy runs automatically on every push to `main`. Your first push in step 2 should have already triggered it.
 
-Check the deploy status at: `https://github.com/YOUR_USERNAME/imdf-floor-plan-builder/actions`
+Check the deploy status at: `https://github.com/Jakke2440/imdf-floor-plan-builder/actions`
 
 ### 6. Access your live site
 
